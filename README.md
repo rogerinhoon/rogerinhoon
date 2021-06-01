@@ -17,10 +17,9 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/rogerinhoon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: rogerinhoon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rog%C3%A9rio-oliveira-nascimento-984a63110/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/rogerinhoon" target="_blank" title="instagram"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
+  <a href = "mailto: rogerinhoon@gmail.com" target="_blank" title="gmail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+  <a href="https://www.linkedin.com/in/rog%C3%A9rio-oliveira-nascimento-984a63110/" target="_blank" title="linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/rogerinhoon/rogerinhoon/blob/output/github-contribution-grid-snake.svg)
 </div>
