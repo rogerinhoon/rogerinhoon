@@ -1,4 +1,10 @@
 ## Rogério Oliveira Nascimento
+
+```sh
+$ Desenvolvedor Front-end na Piloti - Mobile & Internet no Rio de Janeiro - Brasil (desde 2013).
+$ 10 anos no mercado de Desenvolvedor Front-end com experiência em HTML5, CSS, javaScript, WordPress.
+```
+
  <div>
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerinhoon&show_icons=true&theme=holi&include_all_commits=true&count_private=true&show_owner=true"/>
