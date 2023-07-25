@@ -1,8 +1,8 @@
 ## Rogério Oliveira Nascimento
  <div>
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerinhoon&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&show_owner=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerinhoon&layout=compact&langs_count=16&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerinhoon&show_icons=true&theme=holi&include_all_commits=true&count_private=true&show_owner=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerinhoon&layout=compact&langs_count=16&theme=holi"/>
  
 <div>
 <div style="display: inline_block"><br>
