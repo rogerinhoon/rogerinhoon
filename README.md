@@ -8,9 +8,9 @@ Olá! Meu nome é Rogério Oliveira Nascimento e sou um Desenvolvedor Front-end 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerinhoon&show_icons=true&theme=holi&include_all_commits=true&count_private=true&show_owner=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerinhoon&layout=compact&langs_count=16&theme=holi"/>
 </div>
+
 <br>
-<br>
-<b>Tecnologias</b>
+<b>Tecnologias</b><br>
 Abaixo estão algumas das tecnologias que estou familiarizado:
 <br>
 <div style="display: inline_block"><br>
@@ -22,9 +22,9 @@ Abaixo estão algumas das tecnologias que estou familiarizado:
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 </div>
+
 <br>
-<br>
-<b>Contato</b>
+<b>Contato</b><br>
 Se você quiser entrar em contato comigo ou conhecer mais sobre o meu trabalho, sinta-se à vontade para me encontrar nas seguintes redes sociais:
 <br>
 <div>
