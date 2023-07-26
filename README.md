@@ -1,5 +1,5 @@
-
-## Rogério Oliveira Nascimento - Desenvolvedor Front-end
+<div style="text-align: center">
+  ## Rogério Oliveira Nascimento - Desenvolvedor Front-end
 
 Olá! Meu nome é Rogério Oliveira Nascimento e sou um Desenvolvedor Front-end na Piloti - Mobile & Internet, localizada no Rio de Janeiro, Brasil. Atuo nessa área desde 2013, acumulando 10 anos de experiência no mercado. Meu foco de trabalho envolve o desenvolvimento de projetos com as seguintes tecnologias: HTML5, CSS, JavaScript e WordPress.
 <br><br>
@@ -31,5 +31,5 @@ Se você quiser entrar em contato comigo ou conhecer mais sobre o meu trabalho, 
 <a href="https://instagram.com/rogerinhoon" target="_blank" title="instagram"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
 <a href = "mailto: rogerinhoon@gmail.com" target="_blank" title="gmail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 <a href="https://www.linkedin.com/in/rog%C3%A9rio-oliveira-nascimento-984a63110/" target="_blank" title="linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-
+</div>
 </div>
