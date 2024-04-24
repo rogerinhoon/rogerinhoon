@@ -5,7 +5,7 @@ Olá! Meu nome é Rogério Oliveira Nascimento e sou um Desenvolvedor Front-end 
 <br><br>
 <b>Estatísticas</b>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerinhoon&show_icons=true&theme=holi&include_all_commits=true&count_private=true&show_owner=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerinhoon&show_icons=true&theme=holi&include_all_commits=true&count_private=true&show_owner=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerinhoon&layout=compact&langs_count=16&theme=holi"/>
 </div>
 
